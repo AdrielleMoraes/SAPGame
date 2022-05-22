@@ -1,0 +1,1038 @@
+fileFormatVersion: 2
+guid: 91629d952888ed146b7ea35f17476fb5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7840805806678523984
+    second: TerrainTiles_Pattern_0
+  - first:
+      213: 7468416507891240451
+    second: TerrainTiles_Pattern_1
+  - first:
+      213: -2280270206092782239
+    second: TerrainTiles_Pattern_2
+  - first:
+      213: 2765886996744903546
+    second: TerrainTiles_Pattern_3
+  - first:
+      213: -5433085374822453263
+    second: TerrainTiles_Pattern_4
+  - first:
+      213: -4861134253633344690
+    second: TerrainTiles_Pattern_5
+  - first:
+      213: 5948304436024921664
+    second: TerrainTiles_Pattern_6
+  - first:
+      213: 6970758701595747797
+    second: TerrainTiles_Pattern_7
+  - first:
+      213: 1420878415747673597
+    second: TerrainTiles_Pattern_8
+  - first:
+      213: 4223685895935826986
+    second: TerrainTiles_Pattern_9
+  - first:
+      213: -5439628952232381080
+    second: TerrainTiles_Pattern_10
+  - first:
+      213: -1452796921766884428
+    second: TerrainTiles_Pattern_11
+  - first:
+      213: -3848900123675569083
+    second: TerrainTiles_Pattern_12
+  - first:
+      213: -3660399396780062282
+    second: TerrainTiles_Pattern_13
+  - first:
+      213: 2087826192764272881
+    second: TerrainTiles_Pattern_14
+  - first:
+      213: 5793030639907807964
+    second: TerrainTiles_Pattern_15
+  - first:
+      213: 5756945374089013416
+    second: TerrainTiles_Pattern_16
+  - first:
+      213: -8692933481261074912
+    second: TerrainTiles_Pattern_17
+  - first:
+      213: 5996458133738702793
+    second: TerrainTiles_Pattern_18
+  - first:
+      213: 2612958034622939875
+    second: TerrainTiles_Pattern_19
+  - first:
+      213: 806342930521772410
+    second: TerrainTiles_Pattern_20
+  - first:
+      213: 939498232892225153
+    second: TerrainTiles_Pattern_21
+  - first:
+      213: 8976628696684272769
+    second: TerrainTiles_Pattern_22
+  - first:
+      213: 4574715424150869082
+    second: TerrainTiles_Pattern_23
+  - first:
+      213: -6869826128611178105
+    second: TerrainTiles_Pattern_24
+  - first:
+      213: 4230695311267783132
+    second: TerrainTiles_Pattern_25
+  - first:
+      213: 4965156940464178421
+    second: TerrainTiles_Pattern_26
+  - first:
+      213: -4186178500605056234
+    second: TerrainTiles_Pattern_27
+  - first:
+      213: 8680235095069130306
+    second: TerrainTiles_Pattern_28
+  - first:
+      213: -5498895883330170780
+    second: TerrainTiles_Pattern_29
+  - first:
+      213: 5195325807269012582
+    second: TerrainTiles_Pattern_30
+  - first:
+      213: 621146170472769145
+    second: TerrainTiles_Pattern_31
+  - first:
+      213: 2042882000807523691
+    second: TerrainTiles_Pattern_32
+  - first:
+      213: 3045775201892396978
+    second: TerrainTiles_Pattern_33
+  - first:
+      213: -4609114771990189488
+    second: TerrainTiles_Pattern_34
+  - first:
+      213: -7595183941314802609
+    second: TerrainTiles_Pattern_35
+  - first:
+      213: 6086139806303733388
+    second: TerrainTiles_Pattern_36
+  - first:
+      213: -3791322000745930885
+    second: TerrainTiles_Pattern_37
+  - first:
+      213: 2605492561671480982
+    second: TerrainTiles_Pattern_38
+  - first:
+      213: -2147496787634236530
+    second: TerrainTiles_Pattern_39
+  - first:
+      213: 174736146511934790
+    second: TerrainTiles_Pattern_40
+  - first:
+      213: -7554948154968422293
+    second: TerrainTiles_Pattern_41
+  - first:
+      213: -337516052334976378
+    second: TerrainTiles_Pattern_42
+  - first:
+      213: -4867653197228967475
+    second: TerrainTiles_Pattern_43
+  - first:
+      213: -624571052122290182
+    second: TerrainTiles_Pattern_44
+  - first:
+      213: -6402214970751342185
+    second: TerrainTiles_Pattern_45
+  - first:
+      213: -876266685287785576
+    second: TerrainTiles_Pattern_46
+  - first:
+      213: 2074074125412739602
+    second: TerrainTiles_Pattern_47
+  - first:
+      213: 5899694975073491978
+    second: TerrainTiles_Pattern_48
+  - first:
+      213: -2966474109605317052
+    second: TerrainTiles_Pattern_49
+  - first:
+      213: -7356515898770206465
+    second: TerrainTiles_Pattern_50
+  - first:
+      213: -6564992078685245276
+    second: TerrainTiles_Pattern_51
+  - first:
+      213: 2803270953717963146
+    second: TerrainTiles_Pattern_52
+  - first:
+      213: 6842905583662678016
+    second: TerrainTiles_Pattern_53
+  - first:
+      213: -8804282743828253724
+    second: TerrainTiles_Pattern_54
+  - first:
+      213: 1573357118386999469
+    second: TerrainTiles_Pattern_55
+  - first:
+      213: -3934850607824030828
+    second: TerrainTiles_Pattern_56
+  - first:
+      213: 1724571524651801674
+    second: TerrainTiles_Pattern_57
+  - first:
+      213: -7636545348290593259
+    second: TerrainTiles_Pattern_58
+  - first:
+      213: 9146035908459717837
+    second: TerrainTiles_Pattern_59
+  - first:
+      213: 1600050386820787315
+    second: TerrainTiles_Pattern_60
+  - first:
+      213: 894963237447387749
+    second: TerrainTiles_Pattern_61
+  - first:
+      213: -8970227127132883708
+    second: TerrainTiles_Pattern_62
+  - first:
+      213: 8733333666387047916
+    second: TerrainTiles_Pattern_63
+  - first:
+      213: 5683838040321425031
+    second: TerrainTiles_Pattern_64
+  - first:
+      213: 8635068683794460716
+    second: TerrainTiles_Pattern_65
+  - first:
+      213: -6683467737570736997
+    second: TerrainTiles_Pattern_66
+  - first:
+      213: -1072534634821087909
+    second: TerrainTiles_Pattern_67
+  - first:
+      213: 2320205232072832121
+    second: TerrainTiles_Pattern_68
+  - first:
+      213: -7232265914314410716
+    second: TerrainTiles_Pattern_69
+  - first:
+      213: -15458506000531725
+    second: TerrainTiles_Pattern_70
+  - first:
+      213: 5669761238528040646
+    second: TerrainTiles_Pattern_71
+  - first:
+      213: 8413645117107264767
+    second: TerrainTiles_Pattern_72
+  - first:
+      213: -3515137396335633886
+    second: TerrainTiles_Pattern_73
+  - first:
+      213: 4271334249370492663
+    second: TerrainTiles_Pattern_74
+  - first:
+      213: -8295164718842134373
+    second: TerrainTiles_Pattern_75
+  - first:
+      213: -8077765242867396560
+    second: TerrainTiles_Pattern_76
+  - first:
+      213: 4434520417228560173
+    second: TerrainTiles_Pattern_77
+  - first:
+      213: 5929107755122129378
+    second: TerrainTiles_Pattern_78
+  - first:
+      213: -1823669969534003732
+    second: TerrainTiles_Pattern_79
+  - first:
+      213: -7861471190009957437
+    second: TerrainTiles_Pattern_80
+  - first:
+      213: 132199657732053375
+    second: TerrainTiles_Pattern_81
+  - first:
+      213: -4218452628743642664
+    second: TerrainTiles_Pattern_82
+  - first:
+      213: -7303930939764412542
+    second: TerrainTiles_Pattern_83
+  - first:
+      213: -8624152225633576754
+    second: TerrainTiles_Pattern_84
+  - first:
+      213: -1200085867553129921
+    second: TerrainTiles_Pattern_85
+  - first:
+      213: 5520528277780992212
+    second: TerrainTiles_Pattern_86
+  - first:
+      213: -5136824037919278842
+    second: TerrainTiles_Pattern_87
+  - first:
+      213: 9070656361203091524
+    second: TerrainTiles_Pattern_88
+  - first:
+      213: 5642683789460993454
+    second: TerrainTiles_Pattern_89
+  - first:
+      213: 849507379473515096
+    second: TerrainTiles_Pattern_90
+  - first:
+      213: -548316192585324134
+    second: TerrainTiles_Pattern_91
+  - first:
+      213: 5378963888512735445
+    second: TerrainTiles_Pattern_92
+  - first:
+      213: 702418362179375572
+    second: TerrainTiles_Pattern_93
+  - first:
+      213: -7114217511052459855
+    second: TerrainTiles_Pattern_94
+  - first:
+      213: -7688343685935702106
+    second: TerrainTiles_Pattern_95
+  - first:
+      213: -5372942859637027441
+    second: TerrainTiles_Pattern_96
+  - first:
+      213: -3636456712742532618
+    second: TerrainTiles_Pattern_97
+  - first:
+      213: -8260414061784787063
+    second: TerrainTiles_Pattern_98
+  - first:
+      213: -4035762237399786924
+    second: TerrainTiles_Pattern_99
+  - first:
+      213: -4376637097041122995
+    second: TerrainTiles_Pattern_100
+  - first:
+      213: -6564024345143738821
+    second: TerrainTiles_Pattern_101
+  - first:
+      213: -2885037673156239099
+    second: TerrainTiles_Pattern_102
+  - first:
+      213: 3572785461006021306
+    second: TerrainTiles_Pattern_103
+  - first:
+      213: -7360341866950336532
+    second: TerrainTiles_Pattern_104
+  - first:
+      213: -5194765866217931137
+    second: TerrainTiles_Pattern_105
+  - first:
+      213: -451476956336764056
+    second: TerrainTiles_Pattern_106
+  - first:
+      213: -3756706837848449677
+    second: TerrainTiles_Pattern_107
+  - first:
+      213: -5074886087899370652
+    second: TerrainTiles_Pattern_108
+  - first:
+      213: 8579986289323672690
+    second: TerrainTiles_Pattern_109
+  - first:
+      213: -1212627044635902428
+    second: TerrainTiles_Pattern_110
+  - first:
+      213: -3618969904929583639
+    second: TerrainTiles_Pattern_111
+  - first:
+      213: 7598277730842260160
+    second: TerrainTiles_Pattern_112
+  - first:
+      213: -3963721619010676270
+    second: TerrainTiles_Pattern_113
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TerrainTiles_Pattern_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 050c4ebb65320dc60800000000000000
+      internalID: 7840805806678523984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TerrainTiles_Pattern_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30e458b9e3525a760800000000000000
+      internalID: 7468416507891240451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TerrainTiles_Pattern_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 165dee5345ada50e0800000000000000
+      internalID: -2280270206092782239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TerrainTiles_Pattern_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7b1ad9b197626620800000000000000
+      internalID: 2765886996744903546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TerrainTiles_Pattern_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ff665723adc994b0800000000000000
+      internalID: -5433085374822453263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TerrainTiles_Pattern_5
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4b63b6d628c98cb0800000000000000
+      internalID: -4861134253633344690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TerrainTiles_Pattern_6
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04e452d7e5f9c8250800000000000000
+      internalID: 5948304436024921664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TerrainTiles_Pattern_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfde8a71469f7b310800000000000000
+      internalID: 1420878415747673597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TerrainTiles_Pattern_9
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2c151eb1fb8d9a30800000000000000
+      internalID: 4223685895935826986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TerrainTiles_Pattern_10
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8653240d94e8284b0800000000000000
+      internalID: -5439628952232381080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TerrainTiles_Pattern_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bbcd4b95e0a6dbe0800000000000000
+      internalID: -1452796921766884428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TerrainTiles_Pattern_12
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5445c58dab5f59ac0800000000000000
+      internalID: -3848900123675569083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TerrainTiles_Pattern_13
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b9ceda6426a33dc0800000000000000
+      internalID: -3660399396780062282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TerrainTiles_Pattern_14
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f0887c4cd279fc10800000000000000
+      internalID: 2087826192764272881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TerrainTiles_Pattern_15
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd2a8a89caaf46050800000000000000
+      internalID: 5793030639907807964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TerrainTiles_Pattern_16
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a867ede057c4ef40800000000000000
+      internalID: 5756945374089013416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TerrainTiles_Pattern_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02675515e0f7c5780800000000000000
+      internalID: -8692933481261074912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TerrainTiles_Pattern_18
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c74ffbe6e2b73350800000000000000
+      internalID: 5996458133738702793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TerrainTiles_Pattern_19
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e204ba0d77134420800000000000000
+      internalID: 2612958034622939875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TerrainTiles_Pattern_20
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a71d5e48f94b03b00800000000000000
+      internalID: 806342930521772410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TerrainTiles_Pattern_21
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 186f5a64aa4c90d00800000000000000
+      internalID: 939498232892225153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TerrainTiles_Pattern_22
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18c917a4d34639c70800000000000000
+      internalID: 8976628696684272769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TerrainTiles_Pattern_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a54530db077ac7f30800000000000000
+      internalID: 4574715424150869082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TerrainTiles_Pattern_24
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7890f6fa88979a0a0800000000000000
+      internalID: -6869826128611178105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TerrainTiles_Pattern_25
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd1e60d68f276ba30800000000000000
+      internalID: 4230695311267783132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TerrainTiles_Pattern_26
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f4ce6a4ee7c7e440800000000000000
+      internalID: 4965156940464178421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TerrainTiles_Pattern_27
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61bee0145d4b7e5c0800000000000000
+      internalID: -4186178500605056234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TerrainTiles_Pattern_28
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24e797044d3667870800000000000000
+      internalID: 8680235095069130306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1311 @@
+fileFormatVersion: 2
+guid: 2bf31cebd49983747bf8d12abc3be27f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3479328794872992464
+    second: cobbletiles_0
+  - first:
+      213: -1219418862690811945
+    second: cobbletiles_5
+  - first:
+      213: 3212793387309399835
+    second: cobbletiles_6
+  - first:
+      213: 3247710316124477389
+    second: cobbletiles_8
+  - first:
+      213: 3387383277490122624
+    second: cobbletiles_9
+  - first:
+      213: 2491070990831722567
+    second: cobbletiles_1
+  - first:
+      213: -4796078724145658582
+    second: cobbletiles_11
+  - first:
+      213: -3100544000275477499
+    second: cobbletiles_2
+  - first:
+      213: -4457076406426448984
+    second: cobbletiles_3
+  - first:
+      213: 5975424966218932019
+    second: cobbletiles_4
+  - first:
+      213: 7210907562015949237
+    second: cobbletiles_7
+  - first:
+      213: -2660315340133147861
+    second: cobbletiles_10
+  - first:
+      213: -566527226097768319
+    second: cobbletiles_12
+  - first:
+      213: -549094420437488226
+    second: cobbletiles_15
+  - first:
+      213: 3020396611161850181
+    second: cobbletiles_16
+  - first:
+      213: -9000779248751845994
+    second: cobbletiles_18
+  - first:
+      213: 8904471251290741331
+    second: cobbletiles_19
+  - first:
+      213: -8740786937491019071
+    second: cobbletiles_20
+  - first:
+      213: 3939234956296403585
+    second: cobbletiles_22
+  - first:
+      213: -4010683662409633137
+    second: cobbletiles_23
+  - first:
+      213: -4455708374448376441
+    second: cobbletiles_25
+  - first:
+      213: 5722475635416190085
+    second: cobbletiles_27
+  - first:
+      213: 8080366349519443980
+    second: cobbletiles_28
+  - first:
+      213: -7739522060381958558
+    second: cobbletiles_33
+  - first:
+      213: -5146900404288462487
+    second: cobbletiles_34
+  - first:
+      213: 6394459115709468345
+    second: cobbletiles_35
+  - first:
+      213: -5079492715051143634
+    second: cobbletiles_37
+  - first:
+      213: 5257348987887566787
+    second: cobbletiles_39
+  - first:
+      213: -3068483767878008992
+    second: cobbletiles_46
+  - first:
+      213: 1303716983846150470
+    second: cobbletiles_48
+  - first:
+      213: -6001081016239676157
+    second: cobbletiles_49
+  - first:
+      213: 6410262358044255777
+    second: cobbletiles_51
+  - first:
+      213: 4226788638513357561
+    second: cobbletiles_57
+  - first:
+      213: -3129252817329767716
+    second: cobbletiles_58
+  - first:
+      213: 7932960878051461677
+    second: cobbletiles_59
+  - first:
+      213: -5724090514283732556
+    second: cobbletiles_13
+  - first:
+      213: -398710187645007586
+    second: cobbletiles_14
+  - first:
+      213: 6361714882865321200
+    second: cobbletiles_21
+  - first:
+      213: 5663639564588747664
+    second: cobbletiles_24
+  - first:
+      213: 3792702629888350633
+    second: cobbletiles_26
+  - first:
+      213: -1990547022902371341
+    second: cobbletiles_29
+  - first:
+      213: -8942531718124086057
+    second: cobbletiles_30
+  - first:
+      213: 8995237184008656783
+    second: cobbletiles_31
+  - first:
+      213: 8544545683167009551
+    second: cobbletiles_32
+  - first:
+      213: 8591143915884824115
+    second: cobbletiles_36
+  - first:
+      213: -6240350352467627206
+    second: cobbletiles_38
+  - first:
+      213: 5863114685958448521
+    second: cobbletiles_40
+  - first:
+      213: -6474621529533501008
+    second: cobbletiles_41
+  - first:
+      213: -2516101555797280599
+    second: cobbletiles_42
+  - first:
+      213: 1725718530026087488
+    second: cobbletiles_43
+  - first:
+      213: -2126809860358725758
+    second: cobbletiles_47
+  - first:
+      213: -5675456278400034235
+    second: cobbletiles_50
+  - first:
+      213: 5459806875258707470
+    second: cobbletiles_52
+  - first:
+      213: 6416816024710827484
+    second: cobbletiles_53
+  - first:
+      213: -5622366219056291845
+    second: cobbletiles_54
+  - first:
+      213: -6842165551629794487
+    second: cobbletiles_55
+  - first:
+      213: 6275117135039549655
+    second: cobbletiles_60
+  - first:
+      213: -2828666132075673997
+    second: cobbletiles_61
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cobbletiles_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 468
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03daec435e0f6bfc0800000000000000
+      internalID: -3479328794872992464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobbletiles_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 418
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1ffc4b4092269c20800000000000000
+      internalID: 3212793387309399835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobbletiles_8
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 418
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc798fd435f221d20800000000000000
+      internalID: 3247710316124477389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobbletiles_9
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 418
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08fa5ecc427620f20800000000000000
+      internalID: 3387383277490122624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobbletiles_1
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 468
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7402ece2edf029220800000000000000
+      internalID: 2491070990831722567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobbletiles_2
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 468
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50c8c1db8a7a8f4d0800000000000000
+      internalID: -3100544000275477499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobbletiles_3
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 468
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ab4d2a7f984522c0800000000000000
+      internalID: -4457076406426448984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobbletiles_4
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 468
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33fda7df859fce250800000000000000
+      internalID: 5975424966218932019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobbletiles_7
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 418
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b1832ef83a421460800000000000000
+      internalID: 7210907562015949237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobbletiles_10
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 418
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2b57d80b49a41bd0800000000000000
+      internalID: -2660315340133147861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobbletiles_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 368
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 188eadc4d7a4328f0800000000000000
+      internalID: -566527226097768319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobbletiles_15
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 368
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9daca9a8893168f0800000000000000
+      internalID: -549094420437488226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobbletiles_20
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 318
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ca297d479c72b680800000000000000
+      internalID: -8740786937491019071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobbletiles_22
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 318
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18a39d06259faa630800000000000000
+      internalID: 3939234956296403585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobbletiles_23
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 318
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f827c9365703758c0800000000000000
+      internalID: -4010683662409633137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobbletiles_25
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 298
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 785754e37d42a22c0800000000000000
+      internalID: -4455708374448376441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobbletiles_27
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 268
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58c4fcc75415a6f40800000000000000
+      internalID: 5722475635416190085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobbletiles_28
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 268
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c08502e126a332070800000000000000
+      internalID: 8080366349519443980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobbletiles_37
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 218
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2e2138b9440289b0800000000000000
+      internalID: -5079492715051143634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobbletiles_46
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 118
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06f3498454e8a65d0800000000000000
+      internalID: -3068483767878008992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobbletiles_48
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 118
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6412bcd70bbb71210800000000000000
+      internalID: 1303716983846150470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobbletiles_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 66
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 305a1be5c90e7bca0800000000000000
+      internalID: -6001081016239676157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobbletiles_51
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 62
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1262940d6a3d5f850800000000000000
+      internalID: 6410262358044255777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobbletiles_58
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 12
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cda3ba26429a294d0800000000000000
+      internalID: -3129252817329767716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobbletiles_59
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 12
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2a045153e9871e60800000000000000
+      internalID: 7932960878051461677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobbletiles_13
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 368
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b16fe93102ff80b0800000000000000
+      internalID: -5724090514283732556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobbletiles_14
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 368
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e190711623f777af0800000000000000
+      internalID: -398710187645007586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobbletiles_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 318
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69d507026fec61380800000000000000
+      internalID: -9000779248751845994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobbletiles_19
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 318
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35adcd5dc69039b70800000000000000
+      internalID: 8904471251290741331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobbletiles_21
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 318
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f4d08beaf9594850800000000000000
+      internalID: 6361714882865321200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobbletiles_24
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 298
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09b092f3d2a499e40800000000000000
+      internalID: 5663639564588747664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobbletiles_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 268
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a95f2182f262a430800000000000000
+      internalID: 3792702629888350633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobbletiles_29
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 268
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fb513f67082064e0800000000000000
+      internalID: -1990547022902371341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobbletiles_30
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 268
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dcdc8c28ceb5e380800000000000000
+      internalID: -8942531718124086057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobbletiles_31
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 248
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f87983f5f8085dc70800000000000000
+      internalID: 8995237184008656783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobbletiles_32
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 248
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0b54442703549670800000000000000
+      internalID: 8544545683167009551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobbletiles_36
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 218
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 336c298afdfd93770800000000000000
+      internalID: 8591143915884824115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobbletiles_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 168
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 985ede52eb7fd5150800000000000000
+      internalID: 5863114685958448521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobbletiles_41
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 168
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b13f0dd5068526a0800000000000000
+      internalID: -6474621529533501008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobbletiles_42
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 168
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a835e347f2051dd0800000000000000
+      internalID: -2516101555797280599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobbletiles_43
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 168
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 044a38c1cdbf2f710800000000000000
+      internalID: 1725718530026087488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobbletiles_47
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 118
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28f158843bd0c72e0800000000000000
+      internalID: -2126809860358725758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobbletiles_50
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 67
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54a94bba59abc31b0800000000000000
+      internalID: -5675456278400034235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobbletiles_52
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 62
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0ed70efc6125cb40800000000000000
+      internalID: 5459806875258707470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobbletiles_53
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 68
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdd4ced3d2c1d0950800000000000000
+      internalID: 6416816024710827484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobbletiles_54
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 68
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bff5efb56b759f1b0800000000000000
+      internalID: -5622366219056291845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobbletiles_55
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 68
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94301b0aeaebb01a0800000000000000
+      internalID: -6842165551629794487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobbletiles_60
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 18
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d0dffd89c1b51750800000000000000
+      internalID: 6275117135039549655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cobbletiles_61
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 18
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3768379c32f8eb8d0800000000000000
+      internalID: -2828666132075673997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
